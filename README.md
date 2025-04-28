@@ -16,7 +16,7 @@ CampusConnect is a comprehensive university event management system that allows 
 ## Video Explanation
 (https://1drv.ms/v/c/78ee1b63e88fcf37/EdIes02GJWhEkLyDetOhr4QB_IcUzMuQGFiTWTXcxNZxjw?e=kS4HHG)
 ## Site Address
-(https://vercel.com/dewanshshekhars-projects/v0-dynamic-university-portal)
+(https://v0-dynamic-university-portal.vercel.app)
 
 ## Technologies Used
 
