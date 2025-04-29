@@ -51,5 +51,5 @@ CampusConnect is a comprehensive university event management system that allows 
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/campus-connect.git
-   cd campus-connect
+   git clone https://github.com/dewanshshekhar/Dewansh_Shekhar_Singh_AIML3_CampusConnect.git
+   cd Dewansh_Shekhar_Singh_AIML3_CampusConnect
