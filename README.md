@@ -24,7 +24,6 @@ CampusConnect is a comprehensive university event management system that allows 
 - **Backend**: Next.js API routes, Server Actions
 - **Database**: Supabase (PostgreSQL)
 - **Authentication**: Supabase Auth
-- **Email Service**: Nodemailer
 - **Styling**: Tailwind CSS, Framer Motion for animations
 - **Deployment**: Vercel
 
